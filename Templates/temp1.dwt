@@ -1,0 +1,155 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../twoColFixLt.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+#apDiv1 {
+	position: absolute;
+	left: 38px;
+	top: 18px;
+	width: 256px;
+	height: 150px;
+	z-index: 1;
+	background-color: #000000;
+}
+#apDiv2 {
+	position: absolute;
+	left: 340px;
+	top: 34px;
+	width: 643px;
+	height: 247px;
+	z-index: 2;
+	background-image: url(../Black-Weave-Wallpaper-black-26901058-2560-1570.jpg);
+}
+</style>
+<link href="../SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+#apDiv3 {
+	position: absolute;
+	left: 834px;
+	top: 47px;
+	width: 188px;
+	height: 142px;
+	z-index: 3;
+}
+</style>
+<script src="../SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+</head>
+
+<body>
+
+<div id="apDiv1"><img src="../mainlogo.jpg" width="264" height="181" alt="main" /></div>
+<div id="apDiv2">
+  <h2>&nbsp;</h2>
+  <h2 class="headr">&nbsp;</h2>
+  
+  <p>&nbsp;</p>
+  <h2>68225 Ramon Rd @ Whispering Palms<br />
+    Cathedral City, Ca. (760)568-0961</h2>
+  <h2>&nbsp;</h2>
+  <h2>&nbsp;</h2>
+  <h2>&nbsp;</h2>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <ul id="MenuBar1" class="MenuBarHorizontal">
+    <li class="headr"><a href="../index3.html">Home</a>    </li>
+    <li><a href="../schedulev3.html" class="MenuBarItemSubmenu">Schedule &amp; Pricing</a>
+      <ul>
+        <li><a href="../SignupV3.html">Sign up!</a></li>
+        <li><a href="../schedulev3.html">Prices and Class times</a></li>
+        <li><a href="../Events.html">Events</a></li>
+      </ul>
+    </li>
+    <li><a href="../Black belts V3.html">Black Belts</a>    </li>
+    <li><a href="../biov3.html" class="MenuBarItemSubmenu">Biography </a>
+      <ul>
+        <li><a href="../awards.html">Awards</a></li>
+      </ul>
+    </li>
+    <li><a href="../Terminology disclaimer.html" class="MenuBarItemSubmenu">Terminology</a>
+      <ul>
+        <li><a href="../Terminology disclaimer.html">Disclaimer</a></li>
+        <li><a href="#" class="MenuBarItemSubmenu">General Terms</a>
+          <ul>
+            <li><a href="../General Terms A-H.html">General Terms A-H</a></li>
+            <li><a href="../General Terms I-K.html">General Terms I-K</a></li>
+            <li><a href="../General Terms M-R.html">General Terms M-R</a></li>
+            <li><a href="../General Terms S-Z.html">General Terms S-Z</a></li>
+          </ul>
+        </li>
+<li><a href="../Terminology blocks.html">Blocks</a></li>
+        <li><a href="../Terminology strikes and punches.html">Strikes &amp; Punches</a></li>
+        <li><a href="../Terminology Stances.html">Stances</a></li>
+        <li><a href="../Terminology Kicks.html">Kicks</a></li>
+        <li><a href="../Terminology Weapons.html">Weapons</a></li>
+        <li><a href="../Tournament Terminology.html">Tournament Terms</a></li>
+      </ul>
+    </li>
+</ul>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+</div>
+<div class="container">
+  <div class="sidebar1">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp; </p>
+<p>&nbsp;</p>
+<p><img src="../red white belt.png" width="149" height="118" /></p>
+<!-- TemplateBeginEditable name="sidebar" -->
+<p>&nbsp;</p>
+<p>Student of the month!</p>
+<p>&nbsp;</p>
+<p><img src="../josh earbudnas.jpg" width="150" height="250" /></p>
+<p>&nbsp;</p>
+<p>Congratulations Josh Earbudnas!</p>
+<p>&nbsp;</p>
+<p><img src="../rhino kicking.gif" width="150" height="153" /></p>
+<p>&nbsp;</p>
+<!-- TemplateEndEditable -->
+<!-- end .sidebar1 --></div>
+  <div class="content">
+    <h1>&nbsp;</h1>
+    <h1>&nbsp;</h1>
+    <p>&nbsp;</p>
+    <h1>&nbsp;</h1>
+    <p>&nbsp;</p>
+    <!-- TemplateBeginEditable name="EditRegion3" -->
+    <h1>In Progress</h1>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+    <!-- TemplateEndEditable -->
+    <!-- end .content --></div>
+<!-- end .container --></div>
+<script type="text/javascript">
+var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"../SpryAssets/SpryMenuBarDownHover.gif", imgRight:"../SpryAssets/SpryMenuBarRightHover.gif"});
+</script>
+</body>
+</html>
